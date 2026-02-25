@@ -4,8 +4,8 @@ Pocket Critic is a handy prompt (query template) for your favorite LLM (ChatGPT,
 
 It's perfect for when you need an "outside perspective" on a piece of text, code, idea, or project.
 
-Features
-
+Features:
+-
 1.Block-by-Block Analysis: Analyzes information in clear, logical blocks rather than a wall of text.
 -
 2.Objective Feedback: Points out weak spots and areas for growth, avoiding bias.
@@ -14,8 +14,8 @@ Features
 -
 4.Web Search Integration: If the model has web search capabilities (e.g., in Bing mode or with plugins), the critic can look up current data, trends, or examples to back up its points.
 -
-How to Use
-
+How to Use:
+-
 1.Copy the prompt text.
 -
 2.Paste it at the beginning of a chat with the AI.
@@ -34,7 +34,8 @@ Pocket Critic — это удобный промпт (шаблон запрос�
 
 Он идеально подходит, когда вам нужен «взгляд со стороны» на текст, код, идею или проект.
 
-Возможности -
+Возможности:
+-
 1.Блочный разбор: Анализирует информацию по четким смысловым блокам, а не сплошным текстом.
 -
 2.Объективная обратная связь: Указывает на слабые места и зоны роста, избегая предвзятости.
@@ -43,7 +44,8 @@ Pocket Critic — это удобный промпт (шаблон запрос�
 -
 4.Поиск в сети: Если у модели есть функция веб-серфинга (например, в режиме Bing или с плагинами), критик может искать актуальные данные, тренды или примеры для подтверждения своих тезисов.
 -
-Как использовать -
+Как использовать:
+-
 1.Скопируй текст промпта.
 -
 2.Вставь его в начало диалога с нейросетью.
