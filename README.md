@@ -1,3 +1,30 @@
+Pocket Critic 🧐
+
+Pocket Critic is a handy prompt (query template) for your favorite LLM (ChatGPT, YandexGPT, GigaChat, etc.) that turns it into an objective and structured reviewer.
+
+It's perfect for when you need an "outside perspective" on a piece of text, code, idea, or project.
+
+Features
+
+Block-by-Block Analysis: Analyzes information in clear, logical blocks rather than a wall of text.
+
+Objective Feedback: Points out weak spots and areas for growth, avoiding bias.
+
+Improvements with Reasoning: It doesn't just say "what's wrong"; it offers specific edits and explains why it would be better that way.
+
+Web Search Integration: If the model has web search capabilities (e.g., in Bing mode or with plugins), the critic can look up current data, trends, or examples to back up its points.
+
+How to Use
+
+1.Copy the prompt text.
+2.Paste it at the beginning of a chat with the AI.
+3.In the next message, send the material you want to be reviewed.
+4.Receive structured feedback.
+
+Enjoy! 🚀
+
+___________________________________
+
 Pocket Critic / Карманный критик 🧐
 
 Pocket Critic — это удобный промпт (шаблон запроса) для вашей любимой LLM (ChatGPT, YandexGPT, GigaChat и др.), который превращает её в объективного и структурированного рецензента.
