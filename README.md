@@ -7,13 +7,13 @@ It's perfect for when you need an "outside perspective" on a piece of text, code
 Features
 
 1.Block-by-Block Analysis: Analyzes information in clear, logical blocks rather than a wall of text.
-
+-
 2.Objective Feedback: Points out weak spots and areas for growth, avoiding bias.
-
+-
 3.Improvements with Reasoning: It doesn't just say "what's wrong"; it offers specific edits and explains why it would be better that way.
-
+-
 4.Web Search Integration: If the model has web search capabilities (e.g., in Bing mode or with plugins), the critic can look up current data, trends, or examples to back up its points.
-
+-
 How to Use
 
 1.Copy the prompt text.
@@ -45,8 +45,11 @@ Pocket Critic — это удобный промпт (шаблон запрос�
 -
 Как использовать -
 1.  Скопируй текст промпта.
+-
 2.  Вставь его в начало диалога с нейросетью.
+-
 3.  Следующим сообщением отправь материал, который хочешь разобрать.
+- 
 4.  Получи структурированную обратную связь.
-
+-
 Пользуйтесь! 🚀
